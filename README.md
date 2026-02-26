@@ -1,17 +1,4 @@
-Perfect.
-Below is your **clean, executive-grade README content**.
 
-It is structured for:
-
-* CEO visibility
-* Senior leadership review
-* Strategy / Data / Product roles
-* Institutional tone
-* Strong analytical positioning
-
-You can **copy and paste this entire content into your README.md** 👇
-
----
 
 # wint-wealth-risk-growth-intelligence
 
@@ -307,14 +294,3 @@ It converts public narrative into institutional intelligence.
 
 This is an independent analytical exercise using publicly available customer discussions and reviews.
 It does not represent internal company data, confidential metrics, or official disclosures.
-
----
-
-If you want, I can now:
-
-* Upgrade this into a consulting-style executive snapshot (very powerful)
-* Make it shorter and sharper (CEO skim version)
-* Make it more technical (for data science / analytics interviews)
-* Make it more strategic (for product / strategy roles)
-
-Tell me the direction you want next.
